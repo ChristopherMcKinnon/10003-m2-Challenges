@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1xuhSyf0pT8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abstrxcted\\Downloads\\Color Gradient (Challenge) v1.5\\Color Gradient (Challenge)\\Color Gradient (Challenge).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abstrxcted\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

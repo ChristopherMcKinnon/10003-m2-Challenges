@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CRTyJvDk9J0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abstrxcted\\Downloads\\Toggle Color (Challenge) v1.3\\Toggle Color (Challenge)\\Toggle Color (Challenge).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abstrxcted\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\Abstrxcted\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Abstrxcted\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\Abstrxcted\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\Abstrxcted\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\Abstrxcted\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
