@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kQgT2oi1llo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abstrxcted\\Downloads\\Lady Bacon (Challenge) v1.5\\Lady Bacon (Challenge)\\Lady Bacon (Challenge).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abstrxcted\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
